@@ -61,10 +61,10 @@ item.ultimate_mjolnir_head_cast.name 投掷终极雷神之锤
 item.stormbreaker_head_cast.name = 投掷风暴之锤
 item.compound_bow.name =复合弓
 item.quiver.name =颤抖
-item.sharpened_arrow.name = Sharpened Arrow
-item.explosive_arrow.name =爆炸箭
+item.sharpened_arrow.name = 尖利箭头
+item.explosive_arrow.name =爆炸箭头
 item.smoke_arrow.name =烟雾箭头
-item.gas_arrow.name =气箭
+item.gas_arrow.name =空气箭
 item.grappling_hook_arrow.name = 钩子箭头
 item.kryptonite_arrow.name = 氪石箭头
 item.vibranium_arrow.name = 振金箭头
@@ -72,7 +72,7 @@ item.kryptonite.name =氪
 item.kryptonian_fossil.name = 氪石
 item.heart_shaped_herb_potion.name =心形药草药水
 item.vibranium_shield.name = 振金盾
-item.captain_america_shield.name =美国队长的盾牌
+item.captain_america_shield.name =美盾
 item.chitauri_gun.name = 齐塔瑞枪
 item.chitauri_metal.name = 齐塔瑞金属
 item.chitauri_energy_core.name = 爆炸性齐塔瑞能量核
@@ -86,224 +86,221 @@ item.tesseract.name =超正方体
 item.space_stone.name =宇宙立方体
 
 #Blocks
-tile.kryptonite_block.name=Kryptonite Block
-tile.heart_shaped_herb.name=Heart-Shaped Herb
-tile.portal_device.name=Portal Device
+tile.kryptonite_block.name=氪块
+tile.heart_shaped_herb.name=心形草药
+tile.portal_device.name=裂缝设备
 
 
 #Fluids
-fluid.web_fluid=Web Fluid
-fluid.super_soldier_serum=Super Soldier Serum
-fluid.radioactive_acid=Radioactive Acid
+fluid.web_fluid=网流体
+fluid.super_soldier_serum=超级士兵血清
+fluid.radioactive_acid=放射性酸
 
 
 #Suits
-heroesexpansion.suit.green_arrow.name=Green Arrow
-item.green_arrow_chestplate.name=Green Arrow's Chestpiece
-item.green_arrow_legs.name=Green Arrow's Pants
-item.green_arrow_boots.name=Green Arrow's Boots
+heroesexpansion.suit.green_arrow.name=绿箭
+item.green_arrow_chestplate.name=绿箭 护胸
+item.green_arrow_legs.name=绿箭 裤子
+item.green_arrow_boots.name=绿箭 靴子
 
-heroesexpansion.suit.superman.name=Superman
-item.superman_chestplate.name=Superman's Chestpiece
-item.superman_legs.name=Superman's Pants
-item.superman_boots.name=Superman's Boots
+heroesexpansion.suit.superman.name=超人
+item.superman_chestplate.name=超人 护胸
+item.superman_legs.name=超人 裤子
+item.superman_boots.name=超人 靴子
 
-heroesexpansion.suit.black_panther.name=Black Panther
-item.black_panther_chestplate.name=Black Panther's Suit
+heroesexpansion.suit.black_panther.name=黑豹
+item.black_panther_chestplate.name=黑豹 套装
 
-heroesexpansion.suit.thor.name=Thor
-item.thor_chestplate.name=Thor's Chestpiece
-item.thor_legs.name=Thor's Pants
-item.thor_boots.name=Thor's Boots
+heroesexpansion.suit.Thor.name=Thor
+item.Thor_chestplate.name=Thor 护胸
+item.Thor_legs.name=Thor 裤子
+item.Thor_boots.name=Thor 靴子
 
-heroesexpansion.suit.thor_iw.name=Thor
-item.thor_iw_chestplate.name=Thor's Chestpiece
-item.thor_iw_legs.name=Thor's Pants
-item.thor_iw_boots.name=Thor's Boots
+heroesexpansion.suit.Thor_iw.name=Thor
+item.Thor_iw_chestplate.name=Thor 护胸
+item.Thor_iw_legs.name=Thor 裤子
+item.Thor_iw_boots.name=Thor 靴子
 
-heroesexpansion.suit.captain_america.name=Captain America
-item.captain_america_helmet.name=Captain America's Helmet
-item.captain_america_chestplate.name=Captain America's Chestpiece
-item.captain_america_legs.name=Captain America's Pants
-item.captain_america_boots.name=Captain America's Boots
+heroesexpansion.suit.captain_america.name=美国队长
+item.captain_america_helmet.name=美国队长 头盔
+item.captain_america_chestplate.name=美国队长 护胸
+item.captain_america_legs.name=美国队长 裤子
+item.captain_america_boots.name=美国队长 靴子
 
-heroesexpansion.suit.captain_marvel.name=Captain Marvel
-item.captain_marvel_chestplate.name=Captain Marvel's Chestpiece
-item.captain_marvel_legs.name=Captain Marvel's Pants
-item.captain_marvel_boots.name=Captain Marvel's Boots
+heroesexpansion.suit.captain_marvel.name=Marvel上尉
+item.captain_marvel_chestplate.name=Marvel上尉 胸甲
+item.captain_marvel_legs.name=Marvel上尉 裤子
+item.captain_marvel_boots.name=Marvel上尉 靴子
 
-heroesexpansion.suit.spider_man_homemade.name=Spider-Man
-item.spider_man_homemade_helmet.name=Spider-Man's Mask
-item.spider_man_homemade_chestplate.name=Spider-Man's Chestpiece
-item.spider_man_homemade_legs.name=Spider-Man's Pants
-item.spider_man_homemade_boots.name=Spider-Man's Boots
+heroesexpansion.suit.spider_man_homemade.name=蜘蛛侠
+item.spider_man_homemade_helmet.name=蜘蛛侠 面具
+item.spider_man_homemade_chestplate.name=蜘蛛侠 护胸
+item.spider_man_homemade_legs.name=蜘蛛侠 裤子
+item.spider_man_homemade_boots.name=蜘蛛侠 靴子
 
-heroesexpansion.suit.spider_man.name=Spider-Man
-item.spider_man_helmet.name=Spider-Man's Mask
-item.spider_man_chestplate.name=Spider-Man's Chestpiece
-item.spider_man_legs.name=Spider-Man's Pants
-item.spider_man_boots.name=Spider-Man's Boots
+heroesexpansion.suit.spider_man.name=蜘蛛侠
+item.spider_man_helmet.name=蜘蛛侠 面具
+item.spider_man_chestplate.name=蜘蛛侠 护胸
+item.spider_man_legs.name=蜘蛛侠 裤子
+item.spider_man_boots.name=蜘蛛侠 靴子
 
-heroesexpansion.suit.falcon.name=Falcon
-item.falcon_helmet.name=Falcon's Goggles
-item.falcon_chestplate.name=Falcon's Chestpiece
-item.falcon_legs.name=Falcon's Pants
-item.falcon_boots.name=Falcon's Boots
+heroesexpansion.suit.falcon.name=猎鹰
+item.falcon_helmet.name=猎鹰 护目镜
+item.falcon_chestplate.name=猎鹰 护胸
+item.falcon_legs.name=猎鹰裤子
+item.falcon_boots.name=猎鹰之靴
 
 heroesexpansion.suit.vulture.name=Vulture
-item.vulture_helmet.name=Vulture's Helmet
-item.vulture_chestplate.name=Vulture's Chestpiece
-item.vulture_legs.name=Vulture's Pants
-item.vulture_boots.name=Vulture's Boots
+item.vulture_helmet.name=Vulture 头盔
+item.vulture_chestplate.name=Vulture 护胸
+item.vulture_legs.name=Vulture 裤子
+item.vulture_boots.name=Vulture 靴子
 
-heroesexpansion.suit.daredevil_homemade.name=The Devil of Hell's Kitchen
-item.daredevil_homemade_helmet.name=The Devil of Hell's Kitchen's Mask
-item.daredevil_homemade_chestplate.name=The Devil of Hell's Kitchen's Chestpiece
-item.daredevil_homemade_legs.name=The Devil of Hell's Kitchen's Pants
-item.daredevil_homemade_boots.name=The Devil of Hell's Kitchen's Boots
+heroesexpansion.suit.daredevil_homemade.name=地狱魔鬼 
+item.daredevil_homemade_helmet.name=地狱魔鬼 面具
+item.daredevil_homemade_chestplate.name=地狱魔鬼 护胸
+item.daredevil_homemade_legs.name=地狱魔鬼 裤子
+item.daredevil_homemade_boots.name=地狱之魔 靴子
 
-heroesexpansion.suit.daredevil.name=Daredevil
-item.daredevil_helmet.name=Daredevil's Helmet
-item.daredevil_chestplate.name=Daredevil's Chestpiece
-item.daredevil_legs.name=Daredevil's Pants
-item.daredevil_boots.name=Daredevil's Boots
+heroesexpansion.suit.daredevil.name=夜魔侠
+item.daredevil_helmet.name=夜魔侠 头盔
+item.daredevil_chestplate.name=夜魔侠 护胸
+item.daredevil_legs.name=夜魔侠 裤子
+item.daredevil_boots.name=夜魔侠 靴子
 
 
 #Entities
-entity.chitauri.name=Chitauri
-entity.leviathan.name=Leviathan
-entity.kree.name=Kree
-entity.radioactive_spider.name=Radioactive Spider
-entity.Villager.heroesexpansion:spider_scientist=Spider Scientist
+entity.chitauri.name= 奇塔瑞
+entity.leviathan.name=利维坦
+entity.kree.name=克里
+entity.radioactive_spider.name=放射性蜘蛛
+entity.Villager.heroesexpansion：spider_scientist=蜘蛛科学家
 
 
 #Potions
-potion.kryptonite_poison=Kryptonite Poison
-potion.chitauri_virus=Chitauri Virus
+potion.kryptonite_poison=氪毒
+potion.chitauri_virus=Chitauri病毒
 
 
 #Enchantments
-enchantment.chitauri_virus=Chitauri Virus
-enchantment.worthiness=Worthiness
+enchantment.chitauri_virus= 奇塔瑞病毒
+enchantment.worthiness=有价值
 
 
 #Advancements
-heroesexpansion.advancements.root.title=A Hero's Journey
-heroesexpansion.advancements.root.description=Install HeroesExpansion
+heroesexpansion.advancements.root.title=一个英雄 旅程
+heroesexpansion.advancements.root.description=安装HeroesExpansion
 
-heroesexpansion.advancements.vibranium.vibranium.title=The Most Versatile Substance on the Planet
-heroesexpansion.advancements.vibranium.vibranium.description=Find Vibranium
-heroesexpansion.advancements.vibranium.heart_shaped_herb.title=Planted on Vibranium
-heroesexpansion.advancements.vibranium.heart_shaped_herb.description=Find a Heart-Shaped Herb
-heroesexpansion.advancements.vibranium.powers.title=The Protector of Wakanda
-heroesexpansion.advancements.vibranium.powers.description=Become the Black Panther
-heroesexpansion.advancements.vibranium.suit.title=Vibranium Weave
-heroesexpansion.advancements.vibranium.suit.description=Make a Black Panther suit
-heroesexpansion.advancements.vibranium.shield.title=Frisbee
-heroesexpansion.advancements.vibranium.shield.description=Craft a Vibranium Shield
-heroesexpansion.advancements.vibranium.cap_shield.title=When Captain America Throws His Mighty Shield...
-heroesexpansion.advancements.vibranium.cap_shield.description=Craft a Captain America's Shield
+heroesexpansion.advancements.vibranium.vibranium.title=地球上最通用的物质
+heroesexpansion.advancements.vibranium.vibranium.description=查找振金
+heroesexpansion.advancements.vibranium.heart_shaped_herb.title=在振金上种植
+heroesexpansion.advancements.vibranium.heart_shaped_herb.description=找一个心形的药草
+heroesexpansion.advancements.vibranium.powers.title=Wakanda 保护者
+heroesexpansion.advancements.vibranium.powers.description=成为黑豹
+heroesexpansion.advancements.vibranium.suit.title=振金制造
+heroesexpansion.advancements.vibranium.suit.description=制作黑豹套装
+heroesexpansion.advancements.vibranium.shield.title=飞盘
+heroesexpansion.advancements.vibranium.shield.description=制作一个美盾
+heroesexpansion.advancements.vibranium.cap_shield.title=当美国队长投掷他那强大美盾时......
+heroesexpansion.advancements.vibranium.cap_shield.description=制作美盾
 
-heroesexpansion.advancements.kryptonian.kryptonite.title=Krypton's Remnants
-heroesexpansion.advancements.kryptonian.kryptonite.description=Find Kryptonite
-heroesexpansion.advancements.kryptonian.fossil.title=Hidden in Kryptonite
-heroesexpansion.advancements.kryptonian.fossil.description=Find a Kryptonian Fossil
-heroesexpansion.advancements.kryptonian.powers.title=The Last Son of Krypton
-heroesexpansion.advancements.kryptonian.powers.description=Become a Kryptonian
+heroesexpansion.advancements.kryptonian.kryptonite.title=氪星 残骸
+heroesexpansion.advancements.kryptonian.kryptonite.description=找氪
+heroesexpansion.advancements.kryptonian.fossil.title=隐藏在氪中
+heroesexpansion.advancements.kryptonian.fossil.description=找到一个氪星人化石
+heroesexpansion.advancements.kryptonian.powers.title =氪星最后的人
+heroesexpansion.advancements.kryptonian.powers.description =成为氪星人
 
-heroesexpansion.advancements.archery.compound_bow.title=You have failed this city
-heroesexpansion.advancements.archery.compound_bow.description=Craft a Compound Bow
+heroesexpansion.advancements.archery.compound_bow.title =你失去了这座城市
+heroesexpansion.advancements.archery.compound_bow.description =制作复合弓
 
-heroesexpansion.advancements.infinity.space.title=The Jewel of Odin's Treasure Room
-heroesexpansion.advancements.infinity.space.description=Find the Tesseract
-heroesexpansion.advancements.infinity.space_stone.title=Space
-heroesexpansion.advancements.infinity.space_stone.description=Break the Tesseract
+heroesexpansion.advancements.infinity.space.title =The Jewel of Odin's Treasure Room
+heroesexpansion.advancements.infinity.space.description =找到宇宙立方体
+heroesexpansion.advancements.infinity.space_stone.title =空间
+heroesexpansion.advancements.infinity.space_stone.description =打破宇宙立方体
 
-heroesexpansion.advancements.spider_powers.power.title=With great power comes great responsibility
-heroesexpansion.advancements.spider_powers.power.description=Get Spider Powers
-heroesexpansion.advancements.spider_powers.web_shooter.title=Go, web, go!
-heroesexpansion.advancements.spider_powers.web_shooter.description=Craft a Web Shooter
-heroesexpansion.advancements.spider_powers.suit.title=Friendly Neighbourhood Spider-Man
-heroesexpansion.advancements.spider_powers.suit.description=Craft the Spider-Man suit
-heroesexpansion.advancements.spider_powers.spider_sense.title=My Spider-Sense is tingling!
-heroesexpansion.advancements.spider_powers.spider_sense.description=Activate your Spider-Sense
-heroesexpansion.advancements.spider_powers.web_wings.title=Flying Spider
-heroesexpansion.advancements.spider_powers.web_wings.description=Use the web wings
+heroesexpansion.advancements.spider_powers.power.title =能力越大，责任越大
+heroesexpansion.advancements.spider_powers.power.description =获得蜘蛛的力量
+heroesexpansion.advancements.spider_powers.web_shooter.title = Go，web，go！
+heroesexpansion.advancements.spider_powers.web_shooter.description =制作蛛丝发射器
+heroesexpansion.advancements.spider_powers.suit.title =友好邻居蜘蛛侠
+heroesexpansion.advancements.spider_powers.suit.description =制作蜘蛛侠套装
+heroesexpansion.advancements.spider_powers.spider_sense.title =我的蜘蛛感觉强烈！
+heroesexpansion.advancements.spider_powers.spider_sense.description =激活你的蜘蛛感应
+heroesexpansion.advancements.spider_powers.web_wings.title =滑翔蜘蛛
+heroesexpansion.advancements.spider_powers.web_wings.description =使用网翼
 
-heroesexpansion.advancements.god_of_thunder.power.title=God of Hammer
-heroesexpansion.advancements.god_of_thunder.power.description=Find Mjolnir and let it give you powers
-heroesexpansion.advancements.god_of_thunder.new_weapon.title="Bring me Thanos!"
-heroesexpansion.advancements.god_of_thunder.new_weapon.description=Forge a new weapon
-heroesexpansion.advancements.god_of_thunder.god_mode.title=God of Thunder
-heroesexpansion.advancements.god_of_thunder.god_mode.description=Active your god mode
-heroesexpansion.advancements.god_of_thunder.team_up.title=Team Up
-heroesexpansion.advancements.god_of_thunder.team_up.description=Hit someone who holds Captain America's shield
+heroesexpansion.advancements.god_of_thunder.power.title =锤神
+heroesexpansion.advancements.god_of_thunder.power.description =找到雷神之锤并让它给你力量
+heroesexpansion.advancements.god_of_thunder.new_weapon.title =“把我带给我！”
+heroesexpansion.advancements.god_of_thunder.new_weapon.description =锻造新武器
+heroesexpansion.advancements.god_of_thunder.god_mode.title =迅雷之神
+heroesexpansion.advancements.god_of_thunder.god_mode.description =激活你的上帝模式
+heroesexpansion.advancements.god_of_thunder.team_up.title =团队合作
+heroesexpansion.advancements.god_of_thunder.team_up.description =击中持有美盾的人
 
-heroesexpansion.advancements.blindness.power.title=Who turned the lights off?
-heroesexpansion.advancements.blindness.power.description=Become...blind?
-heroesexpansion.advancements.blindness.suit.title=The Man Without Fear
-heroesexpansion.advancements.blindness.suit.description=Craft the Devil of Hells Kitchen suit
-heroesexpansion.advancements.blindness.suit_2.title=The Devil
-heroesexpansion.advancements.blindness.suit_2.description=Craft the Daredevil suit
-heroesexpansion.advancements.blindness.billy_clubs.title=Billy Clubs
-heroesexpansion.advancements.blindness.billy_clubs.description=Craft Billy Clubs
+heroesexpansion.advancements.blindness.power.title =谁关灯了？
+heroesexpansion.advancements.blindness.power.description =成为...  - 瞎了吗？
+heroesexpansion.advancements.blindness.suit.title =没有恐惧的人
+heroesexpansion.advancements.blindness.suit.description =制作地狱魔鬼 套装
+heroesexpansion.advancements.blindness.suit_2.title =魔鬼
+heroesexpansion.advancements.blindness.suit_2.description =制作夜魔侠 套装
+heroesexpansion.advancements.blindness.billy_clubs.title =
+heroesexpansion.advancements.blindness.billy_clubs.description =
 
 
 #Commands
-commands.solarenergy.usage=/solarenergy <set|add|remove> <amount> [player] [ability ID]
-commands.solarenergy.setenergyto=Set %s's solar energy to %s. [Max: %s]
-commands.solarenergy.noability=That player does not have a solar energy ability!
-commands.solarenergy.nogivenid=That player has more than one solar energy ability. Specify the abiliy with its ID
-commands.solarenergy.nosuchability=That player does not have a solar energy ability with that ID
+commands.solarenergy.usage = / solarenergy <set | add | remove> <amount> [player] [ability ID]
+commands.solarenergy.setenergyto =将％s的太阳能设置为％s。 [最大：％s]
+commands.solarenergy.noability =该玩家没有太阳能能力！
+commands.solarenergy.nogivenid =该玩家拥有多种太阳能。使用其ID指定超能力
+commands.solarenergy.nosuchability =该玩家没有具有该ID的太阳能
 
 
-#JEI Info
-heroesexpansion.jei.captain_america_suit=To get an instruction for this suit you have to make the advancement "When Captain America Throws His Mighty Shield...".
-heroesexpansion.jei.black_panther_suit=To get an instruction for this suit you have to make the advancement "The Protector of Wakanda".
-heroesexpansion.jei.superman_suit=To get an instruction for this suit you have to make the advancement "The Last Son of Krypton".
-heroesexpansion.jei.captain_marvel_suit=You can find an instruction for this suit in crashed Kree ships.
-heroesexpansion.jei.green_arrow_suit=To get an instruction for this suit you have to make the advancement "You have failed this city".
-heroesexpansion.jei.spider_man_homemade_suit=To get an instruction for this suit you have to make the advancement "With great power comes great responsibility".
-heroesexpansion.jei.spider_man_suit=To get an instruction for this suit you have to make the advancement "Go, web, go!".
-heroesexpansion.jei.daredevil_suit=To get an instruction for this suit you have to make the advancement "The Man Without Fear".
-heroesexpansion.jei.thor_weapon_cast=You can find these casts in norse villages.
-heroesexpansion.jei.kryptonian_fossil=Kryptonian Fossils drop with a 5 percent chance from Kryptonite block which were generated in meteors. You can increase the chance by using a pickaxe with the fortune enchantment.
-heroesexpansion.jei.tesseract=The jewel of Odin's treasure room was once brought to Earth to hide it amongst humans. When finding a Norse Village you might be able to come across it. According to rumors it was hidden behind the sculpture of Yggdrasil, the World Tree.
+#JEI信息
+heroesexpansion.jei.captain_america_suit =要获得这套衣服的蓝图，你必须在“当美国队长投掷他的盾牌......”时取得。
+heroesexpansion.jei.black_panther_suit =要获得这套服装的蓝图，你必须取得进步“Wakanda的保护者”。
+heroesexpansion.jei.superman_suit =要获得这套衣服的蓝图，你必须推进“氪星的最后一个儿子”。
+heroesexpansion.jei.captain_marvel_suit =你可以在坠毁的Kree船上找到这套衣服的蓝图。
+heroesexpansion.jei.green_arrow_suit =要获得这套服装的蓝图，你必须取得进步“你已经失败了这座城市”。
+heroesexpansion.jei.spider_man_homemade_suit =要获得这套服装的指导，你必须取得进步“以强大的力量来承担更大的责任”。
+heroesexpansion.jei.spider_man_suit =要获得此套装的蓝图，您必须进步“Go，web，go！”。
+heroesexpansion.jei.daredevil_suit =要获得这套服装的蓝图，你必须取得“没有恐惧的人”的进步。
+heroesexpansion.jei.thor_weapon_cast =您可以在北欧村庄找到这些阵容。
+heroesexpansion.jei.kryptonian_fossil =氪星人化石从氪块下降了5％，这是由流星产生的。你可以通过使用带有财富结界的镐来增加机会。
+heroesexpansion.jei.tesseract =宇宙魔方曾被带到地球，将其隐藏在人类中间。找到北欧村庄时，您可能会遇到它。根据传说，它隐藏在世界之树Yggdrasil的雕塑背后。
 
-
-#Web Modes
-heroesexpansion.web_mode.pull=Pull Web
-heroesexpansion.web_mode.swing=Swing Web
-heroesexpansion.web_mode.taser=Taser Web
-heroesexpansion.web_mode.impact=Impact Web
-heroesexpansion.web_mode.web_grenade=Web Grenade
-
+heroesexpansion.web_mode.pull =拉网
+heroesexpansion.web_mode.swing = Swing Web
+heroesexpansion.web_mode.taser = Taser Web
+heroesexpansion.web_mode.impact = Impact Web
+heroesexpansion.web_mode.web_grenade =蛛丝手榴弹
 
 #Misc
-itemGroup.tabHeroesExpansion=HeroesExpansion
-itemGroup.tabSupporterCloaks=Supporter Cloaks
-heroesexpansion.info.get_god_of_thunder_power=Whosoever holds this hammer, if he be worthy, shall possess the power of Thor.
-heroesexpansion.info.hammer_belongs_to=This weapon belongs to %s
-heroesexpansion.info.not_worthy=§cYou are not worthy enough to lift this weapon!
-heroesexpansion.info.not_worthy_for_item=§cYou are not worthy enough to lift this item!
-heroesexpansion.info.remove_possession=You no longer possess this weapon.
-heroesexpansion.info.weapon_belongs_you=This weapon belongs to you now.
-heroesexpansion.info.thor_weapon_tooltip=Hold rightclick and jump to start flying.§nSneak and rightclick to bind/unbind it to you.
-heroesexpansion.into.owner=Owner: %s
-heroesexpansion.into.weapon_not_found=There was no weapon to be found
-heroesexpansion.info.quiver_desc=Change Quiver Slot
-heroesexpansion.info.necklace_desc=Use Necklace
-heroesexpansion.info.equip_shield=Equip Shield
-heroesexpansion.info.open_portal=Open Portal
-heroesexpansion.info.close_portal=Close Portal
-heroesexpansion.info.dim_not_exist=§cThis dimension doesn't exist!
-heroesexpansion.info.portal_location=The portal leads to %s, %s, %s in %s
-heroesexpansion.info.set_destination=Set Destination
-heroesexpansion.info.outside_worldborder=§cYou can't teleport outside the world border!
-heroesexpansion.info.invasion=§cInvasion
-heroesexpansion.info.set_invasion=The portal will lead to an unknown place...
-heroesexpansion.info.assign_cloak=Rightclick to assign this cloak to you
-heroesexpansion.info.no_cloak=You don't have an available cloak!
-heroesexpansion.info.tier=Tier %s
-heroesexpansion.info.homemade=Homemade
-heroesexpansion.info.ability_cooling_down=This ability is still cooling down!
+itemGroup.tabHeroesExpansion = HeroesExpansion
+itemGroup.tabSupporterCloaks =拥护者披风
+heroesexpansion.info.get_god_of_thunder_power =无论谁拿着这把锤子，如果他配得上，都拥有雷神的力量。
+heroesexpansion.info.hammer_belongs_to =此武器属于％s
+heroesexpansion.info.no​​t_worthy =§c你不值得提升这个武器！
+heroesexpansion.info.no​​t_worthy_for_item =§c你不能提升这个能力！
+heroesexpansion.info.remove_possession =你不再拥有这种武器。
+heroesexpansion.info.weapon_belongs_you =这个武器现在属于你。
+heroesexpansion.info.thor_weapon_tooltip =按住右键并跳越开始飞行。nSnak并右键单击绑定/取消绑定给你。
+heroesexpansion.into.owner =所有者：％s
+heroesexpansion.into.weapon_not_found =没有找到武器
+heroesexpansion.info.quiver_desc =更改箭头槽
+heroesexpansion.info.necklace_desc =使用项链
+heroesexpansion.info.equip_shield =装备盾
+heroesexpansion.info.open_portal =打开裂缝
+heroesexpansion.info.close_portal =关闭Portal
+heroesexpansion.info.dim_not_exist =§c这个维度不存在！
+heroesexpansion.info.portal_location =裂缝在％s中导致％s，％s，％s
+heroesexpansion.info.set_destination =设置目的地
+heroesexpansion.info.outside_worldborder =§c你不能在世界边境外传送！
+heroesexpansion.info.invasion =§cInvasion
+heroesexpansion.info.set_invasion =裂缝将导致一个未知的地方......
+heroesexpansion.info.assign_cloak =右键单击将此斗篷分配给你
+heroesexpansion.info.no​​_cloak =你没有可用的斗篷！
+heroesexpansion.info.tier = Tier％s
+heroesexpansion.info.homemade =自制
+heroesexpansion.info.ability_cooling_down =这种能力还在冷却！
